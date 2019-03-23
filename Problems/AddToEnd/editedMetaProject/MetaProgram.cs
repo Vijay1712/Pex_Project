@@ -187,33 +187,12 @@ namespace MetaProject
         [PexMethod]
         public static void Check([PexAssumeNotNull]MetaProgram.List l, int x)
         {
-
+            //TODO: write better PUT to take into account when both methods throw nullreference exception
             List l2 = l.Clone();
-
-           // AssumePrecondition.IsTrue(true);
-
-            //PexObserve.ValueForViewing("$input_before l", l);
-            //PexObserve.ValueForViewing("$input_before l2", l2);
-
+            
             l.addToEnd(x);
             l2.addToEndSolution(x);
-
-            //PexObserve.ValueForViewing("$input_after l", l);
-            //PexObserve.ValueForViewing("$input_after l2", l2);
-
-            //NotpAssume.IsTrue(l.Equals(l2));
-            PexAssert.IsTrue(l.Equals(l2));
-            PexObserve.ValueForViewing("Old_lcount", l.Count());
-            PexObserve.ValueForViewing("Old_list", l);
-            l.addToEnd(x);
-            PexObserve.ValueForViewing("New_list", l);
-            PexObserve.ValueForViewing("New_lcount", l.Count());
-            l2.addToEndSolution(x);
-            PexObserve.ValueForViewing("Old_l2.count", l2.Count());
-            PexObserve.ValueForViewing("Old_list", l2);
-
-            PexObserve.ValueForViewing("New_list", l2);
-            PexObserve.ValueForViewing("New_l2.count", l2.Count());
+            
             PexAssert.IsTrue(l.Equals(l2));
         
         }
