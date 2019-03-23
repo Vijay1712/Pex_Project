@@ -1,5 +1,0 @@
-C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\bin\Debug\meta_projectAddToEnd.dll
-C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\bin\Debug\meta_projectAddToEnd.pdb
-C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\obj\Debug\meta_projectAddToEnd.csprojResolveAssemblyReference.cache
-C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\obj\Debug\meta_projectAddToEnd.dll
-C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\obj\Debug\meta_projectAddToEnd.pdb
