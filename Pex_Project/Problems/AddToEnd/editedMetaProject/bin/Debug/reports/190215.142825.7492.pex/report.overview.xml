@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?><pex id="{b5948874-3b70-4c92-a919-9ce63bc20b2e}" creationTime="2019-02-15 20:28:25Z" configuration="*\*\*" created="2019-02-15 20:28:25Z" pexVersion="0.94.51023.0" xml="C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\bin\Debug\reports\190215.142825.7492.pex\report.per" html="C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\bin\Debug\reports\190215.142825.7492.pex\report.html"><environment commandLine="&quot;C:\Program Files\Microsoft Pex\bin\Microsoft.Pex.exe&quot; &quot;C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\bin\Debug\meta_projectAddToEnd.dll&quot; /x64failsilently /clrversion:v4.0.30319 /donotopenreport /reportlevel:Xml /reportrootpath:&quot;C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\bin\Debug\reports&quot; /testframework:VisualStudioUnitTest /testlanguage:cs /testprojectfile:&quot;C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\meta_projectAddToEnd.csproj&quot; /testprojectnotupdate /testprojectskip" machineName="DESKTOP-OS6C121" osVersion="Microsoft Windows NT 6.2.9200.0" processorCount="8" clrVersion="4.0.30319.42000" bitness="x64" user="Vijayendra Jagtap"><envVars><envVar name="SESSIONNAME" value="Console"/>
+<envVar name="CLRMONITOR_INJECT_TYPES" value=""/>
+<envVar name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+<envVar name="COMPLUS_DEFAULTVERSION" value="v4.0.30319"/>
+<envVar name="CLRMONITOR_INJECT_ASSEMBLIES" value=""/>
+<envVar name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 10, GenuineIntel"/>
+<envVar name="TMP" value="C:\Users\VIJAYE~1\AppData\Local\Temp"/>
+<envVar name="CLRMONITOR_INSTRUMENT_ASSEMBLIES_EXCLUSIONS" value=""/>
+<envVar name="Path" value="C:\Program Files\Java\jdk-11.0.2\bin;C:\Program Files\Git\bin;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Sublime Text 3;C:\WINDOWS\system32;C:\HashiCorp\Vagrant\bin;C:\Users\Vijayendra Jagtap\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Vijayendra Jagtap\AppData\Local\Programs\Python\Python37\;C:\Users\Vijayendra Jagtap\AppData\Local\Microsoft\WindowsApps;C:\Users\Vijayendra Jagtap\AppData\Local\GitHubDesktop\bin;C:\Users\Vijayendra Jagtap\AppData\Local\Microsoft\WindowsApps;;C:\intelFPGA\18.0\modelsim_ase\win32aloem;C:\intelFPGA_lite\18.0\modelsim_ase\win32aloem"/>
+<envVar name="PROCESSOR_REVISION" value="8e0a"/>
+<envVar name="CLRMONITOR_INSTRUMENT_TYPES" value="System.Array,System.Array+ArrayEnumerator,System.Array+FunctorComparer`1,System.Array+SZArrayEnumerator,System.Array+SorterGenericArray,System.Array+SorterObjectArray,System.Boolean,System.Byte,System.Char,System.CharEnumerator,System.ComponentModel.Component,System.ComponentModel.Container,System.ComponentModel.Container+Site,System.Convert,System.Currency,System.DateTime,System.Decimal,System.Diagnostics.Assert,System.Double,System.Globalization.CharUnicodeInfo,System.Globalization.CultureTableRecord,System.Globalization.TextInfo,System.Guid,System.IO.MemoryStream,System.IO.Stream,System.IO.StreamReader,System.IO.StreamWriter,System.IO.StringReader,System.IO.StringWriter,System.Int16,System.Int32,System.Int64,System.Lazy`1,System.Lazy`1+Boxed,System.Lazy`1+LazyInternalExceptionHolder,System.Math,System.Nullable,System.Nullable`1,System.OrdinalComparer,System.SByte,System.SZArrayHelper,System.SZArrayHelper+SZGenericArrayEnumerator`1,System.Single,System.String,System.StringComparer,System.Text.ASCIIEncoding,System.Text.DecoderNLS,System.Text.Encoding,System.Text.UTF8Encoding,System.TimeSpan,System.Tuple,System.Tuple`1,System.Tuple`2,System.Tuple`3,System.Tuple`4,System.Tuple`5,System.Tuple`6,System.Tuple`7,System.Tuple`8,System.UInt16,System.UInt32,System.UInt64,System.Xml.XmlTextWriter,System.Xml.XmlTextWriter+Namespace,System.Xml.XmlTextWriter+NamespaceState,System.Xml.XmlTextWriter+SpecialAttr,System.Xml.XmlTextWriter+State,System.Xml.XmlTextWriter+TagInfo,System.Xml.XmlTextWriter+Token,System.Xml.XmlWriter,System.Xml.XmlWriter+&lt;WriteAttributeStringAsyncHelper&gt;d__82,System.Xml.XmlWriter+&lt;WriteAttributesAsync&gt;d__102,System.Xml.XmlWriter+&lt;WriteElementStringAsync&gt;d__107,System.Xml.XmlWriter+&lt;WriteLocalNamespacesAsync&gt;d__108,System.Xml.XmlWriter+&lt;WriteNodeAsync&gt;d__106,System.Xml.XmlWriter+&lt;WriteNodeAsync_CallAsyncReader&gt;d__105,System.Xml.XmlWriter+&lt;WriteNodeAsync_CallSyncReader&gt;d__104,System.Xml.XmlWriter+&lt;WriteQualifiedNameAsync&gt;d__101,__Box`1,__SzArrayHelper`1"/>
+<envVar name="COMPLUS_ProfAPI_ProfilerCompatibilitySetting" value="EnableV2Profiler"/>
+<envVar name="CLRMONITOR_CLSID" value="{fa6276ae-c2b7-443f-9cac-ea13fd3b342a}"/>
+<envVar name="QSYS_ROOTDIR" value="C:\intelFPGA_lite\18.0\quartus\sopc_builder\bin"/>
+<envVar name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+<envVar name="CLRMONITOR_SUBSTITUTIONS" value="C:\WINDOWS\assembly\GAC_MSIL\Microsoft.ExtendedReflection\0.94.0.0__31bf3856ad364e35\Microsoft.ExtendedReflection.dll"/>
+<envVar name="CLRMONITOR_ERASE_FINALIZER_TYPES" value=""/>
+<envVar name="CLRMONITOR_INJECT_NAMESPACES" value=""/>
+<envVar name="USERNAME" value="Vijayendra Jagtap"/>
+<envVar name="SystemRoot" value="C:\WINDOWS"/>
+<envVar name="CLRMONITOR_INITIALIZED" value="0x7"/>
+<envVar name="CLRMONITOR_INSTRUMENT_NAMESPACES_EXCLUSIONS" value=""/>
+<envVar name="VS100COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\"/>
+<envVar name="OS" value="Windows_NT"/>
+<envVar name="TEMP" value="C:\Users\VIJAYE~1\AppData\Local\Temp"/>
+<envVar name="CLRMONITOR_INSTRUMENT_ATTRIBUTE" value="Microsoft.Moles.Framework.Moles.MolesInstrumentAttribute"/>
+<envVar name="OneDrive" value="C:\Users\Vijayendra Jagtap\OneDrive"/>
+<envVar name="CLRMONITOR_INSTRUMENT_NAMESPACES" value="System.Collections,System.Collections.Generic,System.Collections.ObjectModel,System.Collections.Specialized,System.Diagnostics.Contracts"/>
+<envVar name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+<envVar name="PROCESSOR_LEVEL" value="6"/>
+<envVar name="ProgramW6432" value="C:\Program Files"/>
+<envVar name="pex_instrumentation" value="1"/>
+<envVar name="ProgramData" value="C:\ProgramData"/>
+<envVar name="HOMEPATH" value="\Users\Vijayendra Jagtap"/>
+<envVar name="pex_server_channel" value="pex7260"/>
+<envVar name="COR_PROFILER" value="{fa6276ae-c2b7-443f-9cac-ea13fd3b342a}"/>
+<envVar name="CLRMONITOR_FLAGS" value=""/>
+<envVar name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+<envVar name="SOPC_KIT_NIOS2" value="C:\intelFPGA_lite\18.0\nios2eds"/>
+<envVar name="CLRMONITOR_PROTECT_ALL_CCTORS" value="1"/>
+<envVar name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+<envVar name="VisualStudioDir" value="C:\Users\Vijayendra Jagtap\OneDrive\Documents\Visual Studio 2010"/>
+<envVar name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+<envVar name="CLRMONITOR_INSTRUMENT_ASSEMBLIES" value="FSharp.Core,FSharp.PowerPack,Microsoft.Contracts,Microsoft.VisualBasic,Microsoft.VisualStudio.QualityTools.UnitTestFramework,System,System.Core,System.Web,meta_projectAddToEnd"/>
+<envVar name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+<envVar name="HOMEDRIVE" value="C:"/>
+<envVar name="windir" value="C:\WINDOWS"/>
+<envVar name="SystemDrive" value="C:"/>
+<envVar name="NUMBER_OF_PROCESSORS" value="8"/>
+<envVar name="CLRMONITOR_INSTRUMENT_TYPES_EXCLUSIONS" value=""/>
+<envVar name="CLRMONITOR_PROTECT_TYPES" value="Microsoft.FSharp.Text.Printf,Microsoft.FSharp.Text.PrintfImpl"/>
+<envVar name="USERPROFILE" value="C:\Users\Vijayendra Jagtap"/>
+<envVar name="ProgramFiles" value="C:\Program Files"/>
+<envVar name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+<envVar name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-OS6C121"/>
+<envVar name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+<envVar name="LOGONSERVER" value="\\DESKTOP-OS6C121"/>
+<envVar name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+<envVar name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+<envVar name="APPDATA" value="C:\Users\Vijayendra Jagtap\AppData\Roaming"/>
+<envVar name="USERDOMAIN" value="DESKTOP-OS6C121"/>
+<envVar name="COMPUTERNAME" value="DESKTOP-OS6C121"/>
+<envVar name="pex_clientid" value="pex7260_1"/>
+<envVar name="LOCALAPPDATA" value="C:\Users\Vijayendra Jagtap\AppData\Local"/>
+<envVar name="CLRMONITOR_ERASE_CCTOR_TYPES" value=""/>
+<envVar name="QUARTUS_ROOTDIR" value="C:\intelFPGA_lite\18.0\quartus"/>
+<envVar name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+<envVar name="PUBLIC" value="C:\Users\Public"/>
+<envVar name="pex_wait_for_server_channel" value="1"/>
+</envVars>
+</environment>
+<settings/>
+<reflection/>
+<assembly name="meta_projectAddToEnd" version="1.0.0.0" fileVersion="1.0.0.0" fullName="meta_projectAddToEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" location="C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\bin\Debug\meta_projectAddToEnd.dll" fileName="meta_projectAddToEnd.dll"><settings testFramework="VisualStudioUnitTest" testLanguage="cs"/>
+<fixture name="MetaProgram" type="MetaProject.MetaProgram" typeName="MetaProgram" token="2000002" href="fix\meta_projectAddToEnd.628.html"><type spec="Class"><definition assemblyName="meta_projectAddToEnd" name="MetaProgram" token="2000002" namespace="MetaProject"/>
+</type>
+<settings typeUnderTest="MetaProject.MetaProgram"/>
+<exploration shortName="Check(List, Int32)" fullName="MetaProject.MetaProgram.Check(List, Int32)"><log level="message" time="2019-02-15 20:28:25Z" category="progress" message="    0 runs"/>
+<generatedTest id="f69d6ddd-342d-4768-9c91-39eabb7b7cf9" index="1" run="1" exceptionState="unexpected" status="exception" failed="true" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="CheckThrowsNullReferenceException465"/>
+<log level="message" time="2019-02-15 20:28:25Z" category="coverage" message="coverage increased from 0 to 20 blocks (+20) after flipping MetaProject.MetaProgram.Check at 0x0002"/>
+<generatedTest id="5b3c6294-1ed8-45de-be90-72fc9f6b6234" index="2" run="2" exceptionState="unexpected" status="exception" failed="true" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="CheckThrowsNullReferenceException850"/>
+<log level="message" time="2019-02-15 20:28:26Z" category="coverage" message="coverage increased from 20 to 29 blocks (+9) after flipping MetaProject.MetaProgram+List.Count at 0x001d"/>
+<generatedTest id="66305125-179e-4e1d-aab4-4e0e51c1b03f" index="3" run="3" exceptionState="unexpected" status="exception" failed="true" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="CheckThrowsNullReferenceException270"/>
+<log level="message" time="2019-02-15 20:28:26Z" category="coverage" message="coverage increased from 29 to 31 blocks (+2) after flipping MetaProject.MetaProgram+List.Count at 0x001d"/>
+<generatedTest id="a838b845-727a-4035-b25e-9ddf58475211" index="4" run="4" exceptionState="unexpected" status="exception" failed="true" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="CheckThrowsNullReferenceException144"/>
+<boundary kind="maxstack" value="100" message="maximum size of stack exceeded"/>
+<log level="message" time="2019-02-15 20:28:34Z" category="execution" message="Please notice: The method MetaProject.MetaProgram+List.addToEndSolution was called 4851 times; please check that the code is not stuck in an infinite loop or recursion."/>
+<boundary kind="maxstack" value="100" message="maximum size of stack exceeded"/>
+<boundary kind="maxstack" value="100" message="maximum size of stack exceeded"/>
+<boundary kind="maxstack" value="100" message="maximum size of stack exceeded"/>
+<boundary kind="maxstack" value="100" message="maximum size of stack exceeded"/>
+<boundary kind="maxstack" value="100" message="maximum size of stack exceeded"/>
+<boundary kind="maxrunswithoutnewtests" value="100" message="maximum runs without new tests reached"/>
+<coverage domain="usercodeundertest" unit="block" covered="31" total="47" coveredRatio="0.65957446808510634"/>
+<sourceCoverage xml="cov\e336\cov.xml" html="cov\e336\cov.html"/>
+<result name="Check(List, Int32)" state="success" duration="10.1091972"/>
+<duration start="2019-02-15 20:28:25Z" end="2019-02-15 20:28:35Z" seconds="10.1275333"/>
+<trajectory><image src="fix\metaprojectmetap636858377158206322.trajectories.png" width="800" height="1600"/>
+</trajectory>
+</exploration>
+<coverage domain="usercodeundertest" unit="block" covered="31" total="47" coveredRatio="0.65957446808510634"/>
+<sourceCoverage xml="cov\t628\cov.xml" html="cov\t628\cov.html"/>
+<duration start="2019-02-15 20:28:25Z" end="2019-02-15 20:28:35Z" seconds="10.1753794"/>
+</fixture>
+<fixture name="Question" type="Solution.Question" typeName="Question" token="2000005" href="fix\meta_projectAddToEnd.642.html"><type spec="Class"><definition assemblyName="meta_projectAddToEnd" name="Question" token="2000005" namespace="Solution"/>
+</type>
+<settings typeUnderTest="Solution.Question"/>
+<exploration shortName="countDistinct(Int32[])" fullName="Solution.Question.countDistinct(Int32[])"><settings maxRuns="360" testEmissionFilter="All"/>
+<generatedTest id="9443eba9-2378-4695-931a-9de1d689fbb3" index="1" run="1" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct260"/>
+<log level="message" time="2019-02-15 20:28:35Z" category="coverage" message="coverage increased from 0 to 3 blocks (+3) after flipping Solution.Question.countDistinct at 0x0006"/>
+<generatedTest id="7a4ac85c-4712-462b-885c-0c4b6765ec14" index="2" run="2" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct504"/>
+<log level="message" time="2019-02-15 20:28:35Z" category="coverage" message="coverage increased from 3 to 4 blocks (+1) after flipping Solution.Question.countDistinct at 0x0006"/>
+<generatedTest id="bb44467b-8cc6-4ab9-a88b-fe408ca418d9" index="3" run="3" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct703"/>
+<log level="message" time="2019-02-15 20:28:35Z" category="coverage" message="coverage increased from 4 to 6 blocks (+2) after flipping Solution.Question.countDistinct at 0x0018"/>
+<generatedTest id="28defba3-5130-4d11-8016-be32b4945abc" index="4" run="4" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct585"/>
+<log level="message" time="2019-02-15 20:28:35Z" category="coverage" message="coverage increased from 6 to 15 blocks (+9) after flipping Solution.Question.countDistinct at 0x002e"/>
+<generatedTest id="1b96a58f-9eb9-432f-b300-10203839159b" index="5" run="5" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct888"/>
+<generatedTest id="6ef50763-2f7e-48ee-b9d5-b6ef54e02f72" index="6" run="6" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct609"/>
+<generatedTest id="9cc4ed9b-d2cf-453a-86ce-08379f93cf6c" index="7" run="7" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct114"/>
+<generatedTest id="65a60a39-2ded-434c-8979-e03303b55c9c" index="8" run="8" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct181"/>
+<generatedTest id="057c0316-741c-48ad-9137-cdaf3b12aad7" index="9" run="9" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct640"/>
+<generatedTest id="aa080d60-ba04-4854-890f-73f400712354" index="10" run="10" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct873"/>
+<generatedTest id="42dffdaa-8c61-4d9a-8e5c-bc4fa53189e8" index="11" run="11" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct875"/>
+<generatedTest id="718cc5a8-3e25-4d45-8476-1d908032e550" index="12" run="12" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct468"/>
+<generatedTest id="97c36bf8-4f92-4c51-944c-03e5fbcca4a9" index="13" run="13" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct171"/>
+<generatedTest id="b386d6ed-37d6-4d90-9bd1-6cf4eb36d363" index="14" run="14" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct117"/>
+<generatedTest id="140bb416-4da3-411d-9f3a-f586585fc18c" index="15" run="15" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct620"/>
+<generatedTest id="6dade330-1a74-417e-9f85-063c4e7650bd" index="16" run="16" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct653"/>
+<generatedTest id="34b4c27c-1f0f-4e52-9b82-eda225438956" index="17" run="17" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct38"/>
+<generatedTest id="9378ef93-cffc-4b7e-b811-3ebceef40bcc" index="18" run="18" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct297"/>
+<generatedTest id="ceab6dea-5c5c-473e-ad0a-8c2e81ca86c0" index="19" run="19" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct680"/>
+<generatedTest id="8ab9bbc9-9d82-413c-acce-74b8306250ef" index="20" run="20" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct236"/>
+<generatedTest id="286d0add-0b70-47f0-8c7e-305ceff7e65f" index="21" run="21" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct832"/>
+<generatedTest id="932e5946-e1a7-449e-94dc-8f945659fa15" index="22" run="22" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct668"/>
+<generatedTest id="cc6288ac-f324-4666-a926-fc3cf9be79f9" index="23" run="23" status="minimizationrequest" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinctThrowsMinimizationRequestException917"/>
+<generatedTest id="8387561f-f3d9-43b0-a2de-e3bde17804cd" index="24" run="24" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct143"/>
+<generatedTest id="de5e367f-d272-4cac-8073-bd221d906ead" index="25" run="25" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct927"/>
+<generatedTest id="c119d619-73cc-4a84-8a0a-6240fddc5df0" index="26" run="26" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct954"/>
+<generatedTest id="bea464a8-868d-4028-a3b9-40e00ae6db16" index="27" run="27" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct126"/>
+<generatedTest id="b7e3dcfb-ca59-48ff-a315-3a0fa7822c0e" index="28" run="28" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct983"/>
+<generatedTest id="d7498a0d-5543-4fa1-bbe5-5d38d6b627df" index="29" run="29" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct111"/>
+<generatedTest id="43ae9ef5-1170-42be-b2f5-447e8e6e2041" index="30" run="30" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct637"/>
+<generatedTest id="9c04770d-ec7b-4314-8603-7919fed03567" index="31" run="31" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct394"/>
+<generatedTest id="153b4df7-20dc-404d-889c-757dbc9d0ffe" index="32" run="32" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct768"/>
+<generatedTest id="4a229b36-3e9e-4992-bee5-eda886d75493" index="33" run="33" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct976"/>
+<generatedTest id="034b99a9-7658-4fcd-88a7-1771589e4ed5" index="34" run="34" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct79"/>
+<generatedTest id="45406503-5958-4a80-a326-0cb02b0a9e2b" index="35" run="35" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct502"/>
+<generatedTest id="2387b6c8-1fa2-48ed-88c5-416af9aab433" index="36" run="36" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct478"/>
+<generatedTest id="74965caf-d862-4a4c-bd1d-4b0308d093aa" index="37" run="37" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct993"/>
+<generatedTest id="fd29c852-c7c1-4001-8c82-b9cb2c29ae11" index="38" run="38" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct431"/>
+<generatedTest id="2149e09a-927f-4a1f-bd10-53430ccad4bf" index="39" run="39" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct426"/>
+<generatedTest id="0770f2cf-0ae1-431e-a849-da9b1a3eb8f2" index="40" run="40" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct206"/>
+<generatedTest id="f6eba6b2-61cd-4e4f-a5cd-e08599da666c" index="41" run="41" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct571"/>
+<generatedTest id="0231c814-6cad-435a-a5cf-42bfdf9ba778" index="42" run="42" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct909"/>
+<generatedTest id="a659fae7-ec1e-402f-b256-19429410d463" index="43" run="43" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct324"/>
+<generatedTest id="58be855f-eb0d-4664-91d6-9f235d75f4ba" index="44" run="44" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct780"/>
+<generatedTest id="8e7d872c-3ca9-44e7-a273-ffcbf6412320" index="45" run="45" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct731"/>
+<generatedTest id="f1e830a5-704e-4442-9dd4-c971f353207d" index="46" run="46" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct608"/>
+<generatedTest id="242bca91-4565-41a9-a4c7-2a24147863e0" index="47" run="47" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct597"/>
+<generatedTest id="92ddd8f9-ebc6-4d72-b4f4-9420265a74d5" index="48" run="48" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct769"/>
+<generatedTest id="0f8e38fe-9b3b-42b8-824a-4182ca32a50f" index="49" run="49" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct828"/>
+<generatedTest id="6737ce45-1aa0-470e-a72e-a40b03405fc0" index="50" run="50" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct492"/>
+<generatedTest id="85d37143-0a20-43b7-a708-8f82e0706d55" index="51" run="51" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct966"/>
+<generatedTest id="fc0518e4-5952-45f3-a909-e0bf518c11c6" index="52" run="52" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct29701"/>
+<generatedTest id="e1e4405c-278a-4561-bc8c-13299c02f4f5" index="53" run="53" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct8"/>
+<generatedTest id="b048153c-9c80-435c-99d5-a26bb82348f8" index="54" run="54" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct353"/>
+<generatedTest id="779f74f5-b3e6-415d-ace9-263ff83ca735" index="55" run="55" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct234"/>
+<generatedTest id="320048c5-7dc6-450e-848f-83c174d236d4" index="56" run="56" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct647"/>
+<generatedTest id="8f78e74f-6a19-4d9f-96e4-433e1755dcbb" index="57" run="57" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct23401"/>
+<generatedTest id="8649c95b-a1a6-4671-8427-d66d52ba027f" index="58" run="58" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct123"/>
+<generatedTest id="3ad464fa-d0c3-4d30-be88-7435bb424573" index="59" run="59" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct269"/>
+<generatedTest id="dd588200-e063-4ebe-93fa-32d16526e98c" index="60" run="60" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct756"/>
+<generatedTest id="3ed64558-649e-4e58-a711-8756df3db5b6" index="61" run="61" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct217"/>
+<generatedTest id="e1057f17-5f73-4c03-9be9-31d89ac07b3f" index="62" run="62" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct952"/>
+<generatedTest id="5d97148f-4066-488d-997b-0bdadb9c887c" index="63" run="63" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct618"/>
+<generatedTest id="7264f886-0013-4776-b2b9-5661aca06ed1" index="64" run="64" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct537"/>
+<generatedTest id="cc6b4942-e801-44a5-a0b9-c99cb3d24e5d" index="65" run="65" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct481"/>
+<generatedTest id="49270ca1-31e8-44e3-bed5-e771163681f5" index="66" run="66" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct322"/>
+<generatedTest id="51be5bba-92a7-4915-baa7-09124f106252" index="67" run="67" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct46"/>
+<generatedTest id="81a232ef-8c7a-471f-9489-ef2179480005" index="68" run="68" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct106"/>
+<generatedTest id="2229176b-e588-449b-bcc3-c18834f924d6" index="69" run="69" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct623"/>
+<generatedTest id="30fd0135-f72d-423e-8963-32d88a72943e" index="70" run="70" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct876"/>
+<boundary kind="cancelled" value="true" message="next exploration requested"/>
+<coverage domain="usercodeundertest" unit="block" covered="15" total="15" coveredRatio="1"/>
+<sourceCoverage xml="cov\e346\cov.xml" html="cov\e346\cov.html"/>
+<result name="countDistinct(Int32[])" state="success" duration="1.6191862"/>
+<duration start="2019-02-15 20:28:35Z" end="2019-02-15 20:28:37Z" seconds="1.6205561"/>
+<trajectory><image src="fix\solutionquestion636858377174870379.trajectories.png" width="800" height="1600"/>
+</trajectory>
+</exploration>
+<coverage domain="usercodeundertest" unit="block" covered="15" total="15" coveredRatio="1"/>
+<sourceCoverage xml="cov\t642\cov.xml" html="cov\t642\cov.html"/>
+<duration start="2019-02-15 20:28:35Z" end="2019-02-15 20:28:37Z" seconds="1.6444913"/>
+</fixture>
+<fixture name="Question" type="Submission.Question" typeName="Question" token="2000004" href="fix\meta_projectAddToEnd.647.html"><type spec="Class"><definition assemblyName="meta_projectAddToEnd" name="Question" token="2000004" namespace="Submission"/>
+</type>
+<settings typeUnderTest="Submission.Question"/>
+<exploration shortName="countDistinct(Int32[])" fullName="Submission.Question.countDistinct(Int32[])"><settings maxRuns="60" testEmissionFilter="All"/>
+<generatedTest id="58625f77-6ff1-4fb5-a6e8-03b598674438" index="1" run="1" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct260"/>
+<log level="message" time="2019-02-15 20:28:38Z" category="coverage" message="coverage increased from 0 to 2 blocks (+2) after flipping Submission.Question.countDistinct at 0x000e"/>
+<generatedTest id="f2a3c726-1f5b-40e5-a0fb-8e7be5b491b6" index="2" run="2" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct504"/>
+<log level="message" time="2019-02-15 20:28:38Z" category="coverage" message="coverage increased from 2 to 4 blocks (+2) after flipping Submission.Question.countDistinct at 0x000e"/>
+<generatedTest id="e6ab1c0f-f5ff-4de6-b670-3a0dd29d8109" index="3" run="3" status="minimizationrequest" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinctThrowsMinimizationRequestException963"/>
+<log level="message" time="2019-02-15 20:28:38Z" category="coverage" message="coverage increased from 4 to 9 blocks (+5) after flipping Submission.Question.countDistinct at 0x0022"/>
+<generatedTest id="5b931980-c0e7-4467-ad8c-0ea5fd8a4c5b" index="4" run="4" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct888"/>
+<log level="message" time="2019-02-15 20:28:38Z" category="coverage" message="coverage increased from 9 to 11 blocks (+2) after flipping Submission.Question.countDistinct at 0x003f"/>
+<generatedTest id="1af7f5db-b4d7-4bde-8560-60b1a4876b69" index="5" run="5" status="minimizationrequest" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinctThrowsMinimizationRequestException226"/>
+<generatedTest id="bf0e1a84-9b1b-4069-a99b-3c0d4722a266" index="6" run="6" status="minimizationrequest" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinctThrowsMinimizationRequestException173"/>
+<generatedTest id="60a6b61a-abf9-4c1c-8246-da532bd73de4" index="7" run="7" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct419"/>
+<generatedTest id="ccc22d61-5b63-45a4-b72b-fe5e1de3206f" index="8" run="8" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct578"/>
+<generatedTest id="e1463381-9d92-4bab-8d26-7290bd042ebc" index="9" run="9" status="minimizationrequest" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinctThrowsMinimizationRequestException60"/>
+<generatedTest id="1f63cd92-c646-4f7f-9a1b-5fe5320533f5" index="10" run="10" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct90"/>
+<generatedTest id="ec0539f1-82c2-48f1-89db-566fb8e7f389" index="11" run="11" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct361"/>
+<generatedTest id="671fefed-2742-4a31-a3ae-e73fd1243bfb" index="12" run="12" status="minimizationrequest" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinctThrowsMinimizationRequestException853"/>
+<generatedTest id="273d78e4-f0ad-4735-b1cf-3a0aacb115b7" index="13" run="13" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct358"/>
+<generatedTest id="a5f5c7bd-70ee-47ca-bee5-aab2cc65fa7f" index="14" run="14" status="minimizationrequest" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinctThrowsMinimizationRequestException99"/>
+<generatedTest id="7a93fa47-7896-4470-92b5-f52fca9402b5" index="15" run="15" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct212"/>
+<generatedTest id="1b0e73ef-c8b8-4817-a6e4-c8c4652177b6" index="16" run="16" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct39"/>
+<generatedTest id="bdb6d5a4-1cbe-4e70-bb93-7f392af46926" index="17" run="17" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct828"/>
+<generatedTest id="e54e1456-1532-4b2d-8635-4c182665b5cb" index="18" run="18" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct659"/>
+<generatedTest id="75a69be1-e003-4caf-b960-7e5ef06f677d" index="19" run="19" status="minimizationrequest" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinctThrowsMinimizationRequestException742"/>
+<generatedTest id="d39f6fe1-6874-4d9d-ad4c-a86e3d1876e5" index="20" run="20" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct614"/>
+<generatedTest id="838417d6-24b5-4452-a9c1-aa086e5c5b51" index="21" run="21" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct166"/>
+<generatedTest id="271a3850-8b4f-40c1-adc1-5c5660e31654" index="22" run="22" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct731"/>
+<generatedTest id="8a381df5-93c8-402f-a9b9-39433e690927" index="23" run="23" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct269"/>
+<generatedTest id="73337db6-600a-472f-8417-3ee1b34d1768" index="24" run="24" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct373"/>
+<generatedTest id="17fd8593-0c0a-4fbc-a24f-4aa99f48887e" index="25" run="25" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct725"/>
+<generatedTest id="74328dbc-adb2-452f-a04e-37e7ae268ef9" index="26" run="26" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct145"/>
+<generatedTest id="e7244b86-b2b9-4fba-bc5b-754913aaf8c8" index="27" run="27" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct699"/>
+<generatedTest id="6d6f9110-68c6-404a-b519-ef6d961f4eb5" index="28" run="28" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct829"/>
+<generatedTest id="3e53059c-afbc-43cf-8e9d-21a52e875343" index="29" run="29" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct597"/>
+<generatedTest id="4115c610-02f6-4c21-8c75-4f4878fc924f" index="30" run="30" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct377"/>
+<generatedTest id="2d34f8d6-26e1-4dcd-b5fc-7216a8c196b7" index="31" run="31" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct974"/>
+<generatedTest id="de9babc0-e461-4379-8e53-a75e36aa9c88" index="32" run="32" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct300"/>
+<generatedTest id="0bc32f29-9434-4d74-ad26-ef1452c8d13a" index="33" run="33" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct619"/>
+<generatedTest id="607cd067-c338-4e11-b329-c8c4643094d0" index="34" run="34" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct492"/>
+<generatedTest id="1a91b71f-d756-4693-bd5e-a48adbce484a" index="35" run="35" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct40"/>
+<generatedTest id="2acf4128-3921-4437-ac58-061fdbf4bdda" index="36" run="36" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct568"/>
+<generatedTest id="19b18164-c771-4773-a0b6-fe690d6d1255" index="37" run="37" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct648"/>
+<generatedTest id="6c1bc0a5-52ad-4926-a64a-f0f86eb822a9" index="38" run="38" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct935"/>
+<generatedTest id="d425c99d-c014-492d-b7ea-7049e6dd5848" index="39" run="39" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct752"/>
+<generatedTest id="1b73d5c2-4ad4-473d-b745-f4e3be4553bc" index="40" run="40" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct29"/>
+<generatedTest id="4422101d-2200-4dc9-a4bb-77eb75fc5ba9" index="41" run="41" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct635"/>
+<generatedTest id="2cf05da4-4057-4cd4-bf40-59466f489912" index="42" run="42" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct143"/>
+<generatedTest id="331ae79e-9490-4eb7-b039-08c47f50c837" index="43" run="43" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct147"/>
+<generatedTest id="f2067e05-1488-4745-b4a8-b3da811a415c" index="44" run="44" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct902"/>
+<generatedTest id="a1a2560d-822e-4acb-9992-a4a828789727" index="45" run="45" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct206"/>
+<generatedTest id="f6056bfd-7931-42b8-8435-fd8be0f32779" index="46" run="46" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct634"/>
+<generatedTest id="426b3ec9-c5cf-427a-8c0c-3d0d3f75032e" index="47" run="47" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct169"/>
+<generatedTest id="8c5dcda8-0744-4c74-a63d-daaeb21a98a7" index="48" run="48" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct282"/>
+<generatedTest id="52547a5e-3b94-4f47-ad6b-931436de1c97" index="49" run="49" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct290"/>
+<generatedTest id="da19aa11-184d-43f3-b009-d1b0757b598c" index="50" run="50" status="normaltermination" generated="true" new="true" assemblyName="meta_projectAddToEnd" name="countDistinct755"/>
+<boundary kind="cancelled" value="true" message="next exploration requested"/>
+<coverage domain="usercodeundertest" unit="block" covered="11" total="11" coveredRatio="1"/>
+<sourceCoverage xml="cov\e349\cov.xml" html="cov\e349\cov.html"/>
+<result name="countDistinct(Int32[])" state="success" duration="2.2222235"/>
+<duration start="2019-02-15 20:28:37Z" end="2019-02-15 20:28:39Z" seconds="2.2226978"/>
+<trajectory><image src="fix\submissionquesti636858377197346660.trajectories.png" width="800" height="1600"/>
+</trajectory>
+</exploration>
+<coverage domain="usercodeundertest" unit="block" covered="11" total="11" coveredRatio="1"/>
+<sourceCoverage xml="cov\t647\cov.xml" html="cov\t647\cov.html"/>
+<duration start="2019-02-15 20:28:37Z" end="2019-02-15 20:28:39Z" seconds="2.2316391"/>
+</fixture>
+<coverage domain="usercodeundertest" unit="block" covered="57" total="73" coveredRatio="0.78082191780821919"/>
+<sourceCoverage xml="cov\a51592725\cov.xml" html="cov\a51592725\cov.html"/>
+<duration start="2019-02-15 20:28:25Z" end="2019-02-15 20:28:39Z" seconds="14.1446763"/>
+<frameTreeRef exceptionCount="2"/>
+</assembly>
+<duration start="2019-02-15 20:28:25Z" end="2019-02-15 20:28:39Z" seconds="14.2384263"/>
+<background/>
+</pex>

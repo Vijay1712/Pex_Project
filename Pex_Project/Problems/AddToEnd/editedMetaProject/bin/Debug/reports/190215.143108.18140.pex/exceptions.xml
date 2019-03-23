@@ -1,0 +1,79 @@
+﻿<frameTree version="0.94.51023.0"><frameException type="Microsoft.ExtendedReflection.Interpretation.Interpreter.MinimizationRequestException"><tag exceptionState="unknown"><generatedTestRef idref="9e8dc556-4b17-43fc-9769-6c9760df7d57"/>
+</tag>
+<frameNode><frame value="  at Question.countDistinct(Int32[]) in C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\1525876539_solution.cs(41)" method="Question.countDistinct(Int32[])" offset="129" file="C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\1525876539_solution.cs" line="41"><method assemblyName="meta_projectAddToEnd" name="countDistinct" static="true" token="60000b4"><declaringType assemblyName="meta_projectAddToEnd" name="Question" token="2000005" namespace="Solution"/>
+<parameter name="array" position="0"><type spec="SzArray"><elementType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000fb" namespace="System"/>
+</elementType>
+</type>
+</parameter>
+<resultType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000fb" namespace="System"/>
+</resultType>
+</method>
+<beforeSource><![CDATA[				return 1;
+			}
+		}]]></beforeSource>
+<source><![CDATA[		for (int i = 0; i < array.Length; i++)]]></source>
+<afterSource><![CDATA[		{
+			seen = false;
+			// check if its been seen before]]></afterSource>
+</frame>
+<tag exceptionState="unknown"><generatedTestRef idref="9e8dc556-4b17-43fc-9769-6c9760df7d57"/>
+<generatedTestRef idref="2af5ade0-a1df-4271-9a6e-d7505a6ced98"/>
+<generatedTestRef idref="5e12cc79-c350-4dcb-afc7-ff268026482c"/>
+<generatedTestRef idref="9f0688e6-c458-480f-a63f-8e2575953ba9"/>
+<generatedTestRef idref="210185ed-657b-4439-ade4-410b2bf0a0c0"/>
+<generatedTestRef idref="3790b004-4db8-46b9-a42e-1775c154b3cf"/>
+<generatedTestRef idref="e19f6f01-605c-42a6-95a7-d036bbdd9190"/>
+<generatedTestRef idref="df540b76-c005-4332-b9cc-01960ba591d4"/>
+<generatedTestRef idref="80451fcd-b9ea-402b-9ac6-4134df59b338"/>
+<generatedTestRef idref="dd8231dd-7c4f-4602-b63f-d839e7b90d87"/>
+<generatedTestRef idref="138470d9-13b1-475a-b462-71bea7a7d02b"/>
+<generatedTestRef idref="70007495-4154-476d-a02b-da1a428d3eac"/>
+<generatedTestRef idref="e7d04f40-631f-40c7-a2c4-2fd4c4811268"/>
+<generatedTestRef idref="a9bef800-5d57-45c4-aa5c-494902fe78c1"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at Question.countDistinct(Int32[]) in C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\1525456207.cs(39)" method="Question.countDistinct(Int32[])" offset="85" file="C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\1525456207.cs" line="39"><method assemblyName="meta_projectAddToEnd" name="countDistinct" static="true" token="60000b2"><declaringType assemblyName="meta_projectAddToEnd" name="Question" token="2000004" namespace="Submission"/>
+<parameter name="array" position="0"><type spec="SzArray"><elementType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000fb" namespace="System"/>
+</elementType>
+</type>
+</parameter>
+<resultType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000fb" namespace="System"/>
+</resultType>
+</method>
+<beforeSource><![CDATA[		}
+		for (int i = 0; i < array.Length; i++)
+		{]]></beforeSource>
+<source><![CDATA[			for (int j = 0; j < array.Length; j++)]]></source>
+<afterSource><![CDATA[			{
+				if (array[i] != array[j])
+				{]]></afterSource>
+</frame>
+<tag exceptionState="unknown"><generatedTestRef idref="84ea8c9a-5f7f-4af9-9049-6b3984ef97f9"/>
+<generatedTestRef idref="871d67a3-6b0f-43d8-a41c-1893c37f39a9"/>
+<generatedTestRef idref="a92911ce-15db-4a4e-a0a6-bc64160e249c"/>
+<generatedTestRef idref="51512035-8be7-4b03-a934-c5af43667fa1"/>
+<generatedTestRef idref="d9d00bff-7757-4fff-b7d0-fb9f7910b676"/>
+<generatedTestRef idref="a447660c-2c9b-48d8-8713-d5f500e2c3ab"/>
+</tag>
+</frameNode>
+<frameNode><frame value="  at Question.countDistinct(Int32[]) in C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\1525456207.cs(37)" method="Question.countDistinct(Int32[])" offset="102" file="C:\Users\Vijayendra Jagtap\NETTools\LearningCode\codeSimilarity\editedMetaProject\1525456207.cs" line="37"><method assemblyName="meta_projectAddToEnd" name="countDistinct" static="true" token="60000b2"><declaringType assemblyName="meta_projectAddToEnd" name="Question" token="2000004" namespace="Submission"/>
+<parameter name="array" position="0"><type spec="SzArray"><elementType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000fb" namespace="System"/>
+</elementType>
+</type>
+</parameter>
+<resultType spec="ValueType"><definition assemblyName="mscorlib" valueType="true" name="Int32" token="20000fb" namespace="System"/>
+</resultType>
+</method>
+<beforeSource><![CDATA[		{
+			return 0;
+		}]]></beforeSource>
+<source><![CDATA[		for (int i = 0; i < array.Length; i++)]]></source>
+<afterSource><![CDATA[		{
+			for (int j = 0; j < array.Length; j++)
+			{]]></afterSource>
+</frame>
+<tag exceptionState="unknown"><generatedTestRef idref="9653e5cb-d9a3-44d0-a1f0-f13d4eac8f53"/>
+</tag>
+</frameNode>
+</frameException>
+</frameTree>

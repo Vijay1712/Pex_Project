@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="42d4c147-b373-4c36-94e1-3a897e18075f" name="astor@DESKTOP-AEIC0BN 2018-11-23 01:55:43" runUser="DESKTOP-AEIC0BN\astor" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2ec18f55-7965-4b69-bb9c-6f4ca98ba18a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Users\astor\PexResearchTools\codeSimilarity\editedMetaProject\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="astor_DESKTOP-AEIC0BN 2018-11-23 01_55_43">
+      <DeploymentItem filename="C:\Users\astor\PexResearchTools\codeSimilarity\editedMetaProject\bin\Debug\meta_project1525456207.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-11-23T01:55:43.3383608-06:00" queuing="2018-11-23T01:55:43.3772230-06:00" start="2018-11-23T01:55:43.3822067-06:00" finish="2018-11-23T01:55:43.6464993-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AllElementsInListAreDistinct" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="03a92674-7627-5beb-1d2b-5ba699151be0">
+      <Execution id="20d9c6e7-9d1e-47cc-8f2c-7875ee82c431" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AllElementsInListAreDistinct" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="03a92674-7627-5beb-1d2b-5ba699151be0" executionId="20d9c6e7-9d1e-47cc-8f2c-7875ee82c431" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="20d9c6e7-9d1e-47cc-8f2c-7875ee82c431" testId="03a92674-7627-5beb-1d2b-5ba699151be0" testName="AllElementsInListAreDistinct" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0113876" startTime="2018-11-23T01:55:43.3851997-06:00" endTime="2018-11-23T01:55:43.6115945-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="20d9c6e7-9d1e-47cc-8f2c-7875ee82c431">
+    </UnitTestResult>
+  </Results>
+</TestRun>

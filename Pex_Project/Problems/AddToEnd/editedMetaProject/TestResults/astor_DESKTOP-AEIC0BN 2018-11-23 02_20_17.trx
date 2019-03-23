@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="43560f93-2097-4f00-80c2-a7793016d7be" name="astor@DESKTOP-AEIC0BN 2018-11-23 02:20:17" runUser="DESKTOP-AEIC0BN\astor" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2ec18f55-7965-4b69-bb9c-6f4ca98ba18a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="astor_DESKTOP-AEIC0BN 2018-11-23 02_20_17">
+      <DeploymentItem filename="C:\Users\astor\PexResearchTools\codeSimilarity\editedMetaProject\bin\Debug\meta_project1525456207.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-11-23T02:20:17.7258463-06:00" queuing="2018-11-23T02:20:17.7836932-06:00" start="2018-11-23T02:20:17.7886788-06:00" finish="2018-11-23T02:20:18.0669381-06:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="IsInLast" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="22d2cb42-2fde-698c-47c8-eeebb7b37fa7">
+      <Execution id="9ec1d13f-058d-41eb-a665-0d8a0a06efad" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsInLast" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="22d2cb42-2fde-698c-47c8-eeebb7b37fa7" executionId="9ec1d13f-058d-41eb-a665-0d8a0a06efad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9ec1d13f-058d-41eb-a665-0d8a0a06efad" testId="22d2cb42-2fde-698c-47c8-eeebb7b37fa7" testName="IsInLast" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0273951" startTime="2018-11-23T02:20:17.7926698-06:00" endTime="2018-11-23T02:20:18.0569932-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ec1d13f-058d-41eb-a665-0d8a0a06efad">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestProject1.UnitTest1.IsInLast threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at MetaProject.MetaProgram.List.IsInLast(Int32 incomingVal) in C:\Users\astor\PexResearchTools\codeSimilarity\editedMetaProject\MetaProgram.cs:line 311
+   at TestProject1.UnitTest1.IsInLast() in C:\Users\astor\PexResearchTools\codeSimilarity\editedMetaProject\TestProject1\UnitTest1.cs:line 70
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

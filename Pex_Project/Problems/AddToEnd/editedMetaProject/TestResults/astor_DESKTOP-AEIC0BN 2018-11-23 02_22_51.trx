@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8e1b450c-705a-40fb-bf86-bd5f9da0014d" name="astor@DESKTOP-AEIC0BN 2018-11-23 02:22:51" runUser="DESKTOP-AEIC0BN\astor" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2ec18f55-7965-4b69-bb9c-6f4ca98ba18a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="astor_DESKTOP-AEIC0BN 2018-11-23 02_22_51">
+      <DeploymentItem filename="C:\Users\astor\PexResearchTools\codeSimilarity\editedMetaProject\bin\Debug\meta_project1525456207.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-11-23T02:22:51.2005578-06:00" queuing="2018-11-23T02:22:51.2633595-06:00" start="2018-11-23T02:22:51.2683460-06:00" finish="2018-11-23T02:22:51.5302047-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="IsNotInLastWithZeros" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="cd45cc55-7ed3-e02e-c6bf-35370f3735f2">
+      <Execution id="b266a751-ea2e-49c0-8f2f-e6cfeff8e5e5" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsNotInLastWithZeros" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="cd45cc55-7ed3-e02e-c6bf-35370f3735f2" executionId="b266a751-ea2e-49c0-8f2f-e6cfeff8e5e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b266a751-ea2e-49c0-8f2f-e6cfeff8e5e5" testId="cd45cc55-7ed3-e02e-c6bf-35370f3735f2" testName="IsNotInLastWithZeros" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0133443" startTime="2018-11-23T02:22:51.2723346-06:00" endTime="2018-11-23T02:22:51.5182675-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b266a751-ea2e-49c0-8f2f-e6cfeff8e5e5">
+    </UnitTestResult>
+  </Results>
+</TestRun>

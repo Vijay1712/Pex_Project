@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7c51594e-c952-49ab-a92e-9e862fd8c885" name="astor@DESKTOP-AEIC0BN 2018-11-23 02:29:22" runUser="DESKTOP-AEIC0BN\astor" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2ec18f55-7965-4b69-bb9c-6f4ca98ba18a">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="astor_DESKTOP-AEIC0BN 2018-11-23 02_29_22">
+      <DeploymentItem filename="C:\Users\astor\PexResearchTools\codeSimilarity\editedMetaProject\bin\Debug\meta_project1525456207.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-11-23T02:29:22.9837203-06:00" queuing="2018-11-23T02:29:23.0615123-06:00" start="2018-11-23T02:29:23.0664984-06:00" finish="2018-11-23T02:29:23.3437566-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AllElementsInListAreDistinct" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="03a92674-7627-5beb-1d2b-5ba699151be0">
+      <Execution id="bccb6b7c-d181-4769-9f49-58da198fb5c0" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AllElementsInListAreDistinct" />
+    </UnitTest>
+    <UnitTest name="IsInLastWithZeros" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="335edcf3-f3af-0141-9916-2079610094db">
+      <Execution id="8f7f5313-fb32-4529-be5d-6ee8ac1d81fe" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsInLastWithZeros" />
+    </UnitTest>
+    <UnitTest name="AllElementsInListAreNOTDistinctWithLength4" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="455606f7-eddb-a1e5-7265-8a5d67577209">
+      <Execution id="34eed8ff-6781-4e13-a24c-52e8d4c6158d" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AllElementsInListAreNOTDistinctWithLength4" />
+    </UnitTest>
+    <UnitTest name="IsNotInLastWithZeros" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="cd45cc55-7ed3-e02e-c6bf-35370f3735f2">
+      <Execution id="ddd95b44-5b48-4515-af7b-c355cf97882a" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsNotInLastWithZeros" />
+    </UnitTest>
+    <UnitTest name="AllElementsInListAreDistinctWithLength4" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="3489d7dc-c94d-26cf-1fc2-38b48139480f">
+      <Execution id="16bfb6af-99cd-42ab-8a71-19ef105caf75" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AllElementsInListAreDistinctWithLength4" />
+    </UnitTest>
+    <UnitTest name="IsInLast" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="22d2cb42-2fde-698c-47c8-eeebb7b37fa7">
+      <Execution id="52ec3407-eac9-49a9-9b30-f0d0152e0be6" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsInLast" />
+    </UnitTest>
+    <UnitTest name="AllElementsInListAreNOTDistinct" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="bc82a34e-7e79-e7b6-d927-cc71e6a625c4">
+      <Execution id="62730d58-1168-47e0-9c2a-5caf167074c0" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AllElementsInListAreNOTDistinct" />
+    </UnitTest>
+    <UnitTest name="AllElementsInListAreNOTDistinctWithZeros" storage="c:\users\astor\pexresearchtools\codesimilarity\editedmetaproject\testproject1\bin\debug\testproject1.dll" id="2059a2e7-ed70-2a68-a970-f51b9f4caa20">
+      <Execution id="b130cdbc-f8f9-4920-a503-d00a2f48d982" />
+      <TestMethod codeBase="C:/Users/astor/PexResearchTools/codeSimilarity/editedMetaProject/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AllElementsInListAreNOTDistinctWithZeros" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="03a92674-7627-5beb-1d2b-5ba699151be0" executionId="bccb6b7c-d181-4769-9f49-58da198fb5c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2059a2e7-ed70-2a68-a970-f51b9f4caa20" executionId="b130cdbc-f8f9-4920-a503-d00a2f48d982" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="22d2cb42-2fde-698c-47c8-eeebb7b37fa7" executionId="52ec3407-eac9-49a9-9b30-f0d0152e0be6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="335edcf3-f3af-0141-9916-2079610094db" executionId="8f7f5313-fb32-4529-be5d-6ee8ac1d81fe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3489d7dc-c94d-26cf-1fc2-38b48139480f" executionId="16bfb6af-99cd-42ab-8a71-19ef105caf75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="455606f7-eddb-a1e5-7265-8a5d67577209" executionId="34eed8ff-6781-4e13-a24c-52e8d4c6158d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc82a34e-7e79-e7b6-d927-cc71e6a625c4" executionId="62730d58-1168-47e0-9c2a-5caf167074c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cd45cc55-7ed3-e02e-c6bf-35370f3735f2" executionId="ddd95b44-5b48-4515-af7b-c355cf97882a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bccb6b7c-d181-4769-9f49-58da198fb5c0" testId="03a92674-7627-5beb-1d2b-5ba699151be0" testName="AllElementsInListAreDistinct" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0170307" startTime="2018-11-23T02:29:23.0704933-06:00" endTime="2018-11-23T02:29:23.3068562-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bccb6b7c-d181-4769-9f49-58da198fb5c0">
+    </UnitTestResult>
+    <UnitTestResult executionId="b130cdbc-f8f9-4920-a503-d00a2f48d982" testId="2059a2e7-ed70-2a68-a970-f51b9f4caa20" testName="AllElementsInListAreNOTDistinctWithZeros" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0001473" startTime="2018-11-23T02:29:23.3088505-06:00" endTime="2018-11-23T02:29:23.3108456-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b130cdbc-f8f9-4920-a503-d00a2f48d982">
+    </UnitTestResult>
+    <UnitTestResult executionId="52ec3407-eac9-49a9-9b30-f0d0152e0be6" testId="22d2cb42-2fde-698c-47c8-eeebb7b37fa7" testName="IsInLast" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0003567" startTime="2018-11-23T02:29:23.3128402-06:00" endTime="2018-11-23T02:29:23.3158316-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52ec3407-eac9-49a9-9b30-f0d0152e0be6">
+    </UnitTestResult>
+    <UnitTestResult executionId="8f7f5313-fb32-4529-be5d-6ee8ac1d81fe" testId="335edcf3-f3af-0141-9916-2079610094db" testName="IsInLastWithZeros" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0001394" startTime="2018-11-23T02:29:23.3168292-06:00" endTime="2018-11-23T02:29:23.3208193-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f7f5313-fb32-4529-be5d-6ee8ac1d81fe">
+    </UnitTestResult>
+    <UnitTestResult executionId="16bfb6af-99cd-42ab-8a71-19ef105caf75" testId="3489d7dc-c94d-26cf-1fc2-38b48139480f" testName="AllElementsInListAreDistinctWithLength4" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0002386" startTime="2018-11-23T02:29:23.3218172-06:00" endTime="2018-11-23T02:29:23.3248074-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="16bfb6af-99cd-42ab-8a71-19ef105caf75">
+    </UnitTestResult>
+    <UnitTestResult executionId="34eed8ff-6781-4e13-a24c-52e8d4c6158d" testId="455606f7-eddb-a1e5-7265-8a5d67577209" testName="AllElementsInListAreNOTDistinctWithLength4" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0001485" startTime="2018-11-23T02:29:23.3258054-06:00" endTime="2018-11-23T02:29:23.3268041-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="34eed8ff-6781-4e13-a24c-52e8d4c6158d">
+    </UnitTestResult>
+    <UnitTestResult executionId="62730d58-1168-47e0-9c2a-5caf167074c0" testId="bc82a34e-7e79-e7b6-d927-cc71e6a625c4" testName="AllElementsInListAreNOTDistinct" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0001422" startTime="2018-11-23T02:29:23.3277992-06:00" endTime="2018-11-23T02:29:23.3297967-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="62730d58-1168-47e0-9c2a-5caf167074c0">
+    </UnitTestResult>
+    <UnitTestResult executionId="ddd95b44-5b48-4515-af7b-c355cf97882a" testId="cd45cc55-7ed3-e02e-c6bf-35370f3735f2" testName="IsNotInLastWithZeros" computerName="DESKTOP-AEIC0BN" duration="00:00:00.0001232" startTime="2018-11-23T02:29:23.3307922-06:00" endTime="2018-11-23T02:29:23.3337828-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ddd95b44-5b48-4515-af7b-c355cf97882a">
+    </UnitTestResult>
+  </Results>
+</TestRun>
