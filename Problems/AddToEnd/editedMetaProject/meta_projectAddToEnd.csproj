@@ -35,12 +35,6 @@
     <Reference Include="Microsoft.ExtendedReflection, Version=0.94.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.Pex.Framework, Version=0.94.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
-    <Reference Include="PexAPIWrapper">
-      <HintPath>..\..\Documents\Angello_Tool\reportparserlearning\PexAPIWrapper\PexAPIWrapper\bin\Debug\PexAPIWrapper.dll</HintPath>
-    </Reference>
-    <Reference Include="ReportParserLearning">
-      <HintPath>..\..\Documents\Angello_Tool\reportparserlearning\ReportParser\ReportParserLearning\ReportParserLearning\bin\Debug\ReportParserLearning.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -54,9 +48,6 @@
     <Compile Include="1525876539_solution.cs" />
     <Compile Include="MetaProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Question.countDistinct.g.cs">
-      <DependentUpon>1525456207.cs</DependentUpon>
-    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
